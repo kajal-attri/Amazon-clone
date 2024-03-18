@@ -1,2 +1,2 @@
-# codee
+# Amazon clone
 my code is..
